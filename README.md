@@ -1,2 +1,1 @@
-# bModProject
-Minecraft Forge Mods, server side
+Just a regular website
